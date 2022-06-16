@@ -1,1 +1,58 @@
-<mxfile host="app.diagrams.net" modified="2022-06-15T23:52:07.100Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" etag="1DyYvQ6684JuVCGUnPB1" version="20.0.1" type="github"><diagram id="QWaLk7IN20cdrfLnV8OY" name="Page-1">7Vptc5s4EP41/mgPIOKXjzFN27m5dG6aubn7KoMMmgqJCBHb9+tPAgmDJTvuxLhpa2fGoF1phZ7dfdAqHoEo337isMgeWYLIKPCS7Qh8GAWB74GpvCjJTkvuAq+RpBwnWrYXPOH/kBmqpRVOUNnrKBgjAhd9YcwoRbHoySDnbNPvtmakP2sBU2QJnmJIbOk/OBFZI1143l7+GeE0MzNPjWYF428pZxXV840C8LH+NOocGlu6f5nBhG06IvAwAhFnTDR3+TZCRIFrYGvGfTyibZ+bIyrOGfCMI3wf5Ltt+PcfIgo26fPq37H23gskFTLLqB9W7AxA9RKRMuKNwHKTYYGeChgr7UbGhJRlIiey5cvbNaNC+zgIVRsTEjHCeG3LAASW9sPr9bwgLtC2I9KL+YRYjgTfyS4bh5uyjouCUAuhDo20HbuHR95ohL4DLd+B1pQIve4ebNPnihnFuKwRuZcdgrDY1ss3enmXqmsE10jqP7OiQLw0Zlfc6AlLmZHKZ2/ma1Rv9FjfQw9T9fdGD2kt0H7Q1DDTzY7/Whbo+s/3hvLfzPJfjmhlg40l2QyaB5dEeXbXh3luw+wHV4XZOLWD81rSHOINjQu11nfPMuZ9Bhx4umknuACekGxpWiXRXw9fHhco/7qg2Woc2rQTBaN7z/6GtbG44RKOXjCSr8dDqMsNzgmksrUsBeQtkp7XhxaoNiQ4pbJB0HrPNRZ8DpCPItrS82uA+v4liNyJaGBHaMm4YvDV7kRo+t8VmjV+ZwF23OtHsz7sJ33LtV1yDR2gzgeD1CbXyyJ5mkIHRxg4wnbu4lUwHMTzXxvi2TuAePE6xARr7uTsW1szyFUuE8xlhYKZ4suSVUr+I6ihrcBORK5r3zUcqsCm258eVVewXhlVuxwpMiZkmeCxdbsNOIBZoiL6ADaIm7SnrHZDlwm0yOwEYomi3MqBpcIYy0L6XitynCRqGifr9Pd313KaP+87LVw4XpOuvQcYzGnBaadBykTW7JRv7vMPKsh2m9hxH7iu+4CDyZryMcEvzhMA5bKxRl8dAbQ7ae/gbABMj5wNmBnKAlLnFPujqHHceF3ZwxQLDMlJk+eeWxx9Ngpz1CecI2cUrbhZhSWu4etLf09EYyxknEa1DSguBKibRs7ljlOlt2prw/4pVrH4Z7AX9QFpANe50+yapRFwFPC/dYjfSONGGu+bNGY/njRc5ymvBODbA8yf6wDzVD02NitVKm+ycE7xJ+MoV6spykpdkzoM5FxYzSgzXTSBGTNaykIOiUppYYILXMaYprKBCBYTef1SEQKVDag8yrgQWNS2cphS2JiRoAXeCq8QTerpSpSroR9k0MX1qLJCXLFLgmE+mUzs030jqYzgK4LK6CPj3cSpDvvbFs5Nr4tv4jV5XWgLP+QRz93hfyemjsSaOxJrwD286xjtllm3zPq5MyscMrNkc/9LhVrX+T0IePgf</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-06-16T05:37:59.108Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" etag="pJLY3RwCXeyyLdHEJ8tv" version="20.0.1" type="github">
+  <diagram id="QWaLk7IN20cdrfLnV8OY" name="Page-1">
+    <mxGraphModel dx="932" dy="1368" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="900" pageHeight="1600" background="#FFFFFF" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="qiCiA2myx4UJtC2wgqbX-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry width="900" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="qiCiA2myx4UJtC2wgqbX-1" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Cafe Hoppers&lt;br&gt;logo&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" parent="1" vertex="1">
+          <mxGeometry x="30" y="70" width="210" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="qiCiA2myx4UJtC2wgqbX-7" value="menu&lt;br&gt;icon" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;fillColor=#E6E6E6;" parent="1" vertex="1">
+          <mxGeometry x="750" y="80" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="qiCiA2myx4UJtC2wgqbX-10" value="footer content" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry y="1380" width="900" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="alxngudCPENM9emR9nhb-4" value="    all cafe reviews" style="swimlane;startSize=200;fontSize=30;align=left;" parent="1" vertex="1">
+          <mxGeometry y="240" width="900" height="1140" as="geometry" />
+        </mxCell>
+        <mxCell id="alxngudCPENM9emR9nhb-20" value="sort by" style="rounded=1;whiteSpace=wrap;html=1;fontSize=30;" parent="alxngudCPENM9emR9nhb-4" vertex="1">
+          <mxGeometry x="40" y="230" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="alxngudCPENM9emR9nhb-27" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=30;fillColor=#E6E6E6;" parent="alxngudCPENM9emR9nhb-4" vertex="1">
+          <mxGeometry x="40" y="340" width="820" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="alxngudCPENM9emR9nhb-28" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=30;fillColor=#E6E6E6;" parent="alxngudCPENM9emR9nhb-4" vertex="1">
+          <mxGeometry x="40" y="740" width="820" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="alxngudCPENM9emR9nhb-29" value="" style="line;strokeWidth=2;direction=south;html=1;fontSize=30;" parent="alxngudCPENM9emR9nhb-4" vertex="1">
+          <mxGeometry x="520" y="340" width="10" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="alxngudCPENM9emR9nhb-30" value="" style="line;strokeWidth=2;direction=south;html=1;fontSize=30;" parent="alxngudCPENM9emR9nhb-4" vertex="1">
+          <mxGeometry x="520" y="740" width="10" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="alxngudCPENM9emR9nhb-31" value="photo of cafe" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=30;" parent="alxngudCPENM9emR9nhb-4" vertex="1">
+          <mxGeometry x="180" y="490" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="alxngudCPENM9emR9nhb-32" value="photo of cafe" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=30;" parent="alxngudCPENM9emR9nhb-4" vertex="1">
+          <mxGeometry x="130" y="900" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="alxngudCPENM9emR9nhb-33" value="&lt;div style=&quot;text-align: left; font-size: 36px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 36px;&quot;&gt;name of cafe&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 36px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 36px;&quot;&gt;city, state&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="alxngudCPENM9emR9nhb-4" vertex="1">
+          <mxGeometry x="530" y="370" width="270" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="alxngudCPENM9emR9nhb-34" value="&lt;div style=&quot;text-align: left; font-size: 36px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 36px;&quot;&gt;name of cafe&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 36px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 36px;&quot;&gt;city, state&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="alxngudCPENM9emR9nhb-4" vertex="1">
+          <mxGeometry x="530" y="770" width="270" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="alxngudCPENM9emR9nhb-37" value="&lt;span style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 18px; line-height: 0.9;&quot;&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a porttitor magna, id bibendum sem. Donec posuere diam...&lt;br&gt;&lt;u&gt;Read More&lt;/u&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=36;" parent="alxngudCPENM9emR9nhb-4" vertex="1">
+          <mxGeometry x="550" y="860" width="280" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="alxngudCPENM9emR9nhb-38" value="&lt;span style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 18px; line-height: 0.9;&quot;&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a porttitor magna, id bibendum sem. Donec posuere diam...&lt;br&gt;&lt;u&gt;Read More&lt;/u&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=36;" parent="alxngudCPENM9emR9nhb-4" vertex="1">
+          <mxGeometry x="550" y="460" width="280" height="230" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
