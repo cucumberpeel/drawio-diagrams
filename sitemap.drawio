@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-16T06:21:11.692Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" etag="5kVnQLf4aoBLw_7hCXPv" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-16T07:26:20.085Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" etag="nj175ak5-uvzDElDFAQv" version="20.0.1" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="466" dy="684" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -38,29 +38,11 @@
         <mxCell id="0hlZXfyJcXa63XVc60s6-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0hlZXfyJcXa63XVc60s6-5" target="0hlZXfyJcXa63XVc60s6-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0hlZXfyJcXa63XVc60s6-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0hlZXfyJcXa63XVc60s6-5" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="500" y="300" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="420" y="270" />
-              <mxPoint x="500" y="270" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="0hlZXfyJcXa63XVc60s6-5" value="Cafe Reviews" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="360" y="180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pLtk3N5Nt5iYMbCYhQ50-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0hlZXfyJcXa63XVc60s6-7" target="pLtk3N5Nt5iYMbCYhQ50-1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="0hlZXfyJcXa63XVc60s6-7" value="California" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fillColor=default;" parent="1" vertex="1">
-          <mxGeometry x="280" y="300" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="0hlZXfyJcXa63XVc60s6-15" value="New York" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fillColor=default;" parent="1" vertex="1">
-          <mxGeometry x="440" y="300" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="pLtk3N5Nt5iYMbCYhQ50-1" value="Sue&#39;s Gallery Cafe:&amp;nbsp;&lt;br&gt;A Review" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="400" width="120" height="60" as="geometry" />
+        <mxCell id="0hlZXfyJcXa63XVc60s6-7" value="Sue&#39;s Gallery Cafe:&amp;nbsp;&lt;br&gt;A Review" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fillColor=default;" parent="1" vertex="1">
+          <mxGeometry x="360" y="290" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
