@@ -1,1 +1,102 @@
-<mxfile host="app.diagrams.net" modified="2022-10-11T20:27:46.412Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" version="20.4.0" etag="J8RXEoUVpBCkiYUeiXLY" type="github"><diagram id="dlmkm7Lrp8StFqAz9MM0">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-10-11T21:08:18.649Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="3p0DzhQ_MhN9QPICBlEj" version="20.4.0" type="github">
+  <diagram id="dlmkm7Lrp8StFqAz9MM0" name="Page-1">
+    <mxGraphModel dx="996" dy="532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="K84p2yq64tC9PGGXPPFx-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="K84p2yq64tC9PGGXPPFx-5" target="K84p2yq64tC9PGGXPPFx-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="415" y="160" />
+              <mxPoint x="355" y="160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K84p2yq64tC9PGGXPPFx-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.45;entryY=-0.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="K84p2yq64tC9PGGXPPFx-5" target="K84p2yq64tC9PGGXPPFx-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="255" y="100" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="415" y="160" />
+              <mxPoint x="80" y="160" />
+              <mxPoint x="80" y="199" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K84p2yq64tC9PGGXPPFx-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.689;entryY=-0.005;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="K84p2yq64tC9PGGXPPFx-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="675" y="100" as="targetPoint" />
+            <mxPoint x="415" y="130" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="415" y="160" />
+              <mxPoint x="790" y="160" />
+              <mxPoint x="790" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K84p2yq64tC9PGGXPPFx-5" value="Home" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="355" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="K84p2yq64tC9PGGXPPFx-6" value="About&lt;br&gt;[slug: profile]" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="20" y="200" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="K84p2yq64tC9PGGXPPFx-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="K84p2yq64tC9PGGXPPFx-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="630" y="160" as="sourcePoint" />
+            <mxPoint x="630" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K84p2yq64tC9PGGXPPFx-7" value="Gallery&lt;br&gt;[slug: photo-albums]" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="570" y="200" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="K84p2yq64tC9PGGXPPFx-9" value="Skating&lt;br&gt;[slug: competitive-history]" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="295" y="200" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="K84p2yq64tC9PGGXPPFx-11" value="Press&lt;br&gt;[slug: news]" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="160" y="200" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="K84p2yq64tC9PGGXPPFx-12" value="Programs&lt;br&gt;[slug: programs]" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="430" y="200" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="K84p2yq64tC9PGGXPPFx-14" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="K84p2yq64tC9PGGXPPFx-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="490" y="160" as="sourcePoint" />
+            <mxPoint x="550" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K84p2yq64tC9PGGXPPFx-15" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="K84p2yq64tC9PGGXPPFx-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="160" as="sourcePoint" />
+            <mxPoint x="390" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K84p2yq64tC9PGGXPPFx-16" value="Connect&lt;br&gt;[slug: connect-with-camden]" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="710" y="200" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="K84p2yq64tC9PGGXPPFx-29" value="notes:&lt;br&gt;separate by season, include thumbnails" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="300" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="K84p2yq64tC9PGGXPPFx-30" value="notes: inconsistent grammar &amp;amp; capitalization" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="300" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="K84p2yq64tC9PGGXPPFx-31" value="notes: improve spacing &amp;amp; bullet points" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="295" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="K84p2yq64tC9PGGXPPFx-32" value="notes: improve spacing, possibly combine with skating page" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="300" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="K84p2yq64tC9PGGXPPFx-33" value="notes: include thumbnails" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="K84p2yq64tC9PGGXPPFx-34" value="notes: instagram is dead link, facebook preview doesn&#39;t work, shorten twitter preview" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="300" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="K84p2yq64tC9PGGXPPFx-35" value="layout notes: change side menu on larger devices" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="K84p2yq64tC9PGGXPPFx-36" value="footer notes: add &quot;sponsors&quot; title for sponsor logos, reduce footer size on all devices" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="70" width="180" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
