@@ -40,7 +40,7 @@
         <mxCell id="F0I1lO7PYUHiMKchcRLL-10" value="&lt;u&gt;vcode&lt;/u&gt;&lt;div&gt;desc&lt;/div&gt;&lt;div&gt;penalty&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="F0I1lO7PYUHiMKchcRLL-9">
           <mxGeometry x="10" y="27" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="F0I1lO7PYUHiMKchcRLL-11" value="owns" style="rhombus;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="F0I1lO7PYUHiMKchcRLL-11" value="owned_by" style="rhombus;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="220" y="355" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="F0I1lO7PYUHiMKchcRLL-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="F0I1lO7PYUHiMKchcRLL-11" target="F0I1lO7PYUHiMKchcRLL-5">
@@ -55,8 +55,8 @@
             <mxPoint x="400" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="F0I1lO7PYUHiMKchcRLL-14" value="conducts" style="rhombus;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="240" y="127" width="80" height="60" as="geometry" />
+        <mxCell id="F0I1lO7PYUHiMKchcRLL-14" value="conducted_by" style="rhombus;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="230" y="127" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="F0I1lO7PYUHiMKchcRLL-15" value="" style="endArrow=classic;html=1;rounded=0;entryX=1.01;entryY=0.535;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="F0I1lO7PYUHiMKchcRLL-14" target="F0I1lO7PYUHiMKchcRLL-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -85,8 +85,8 @@
             <mxPoint x="540" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="F0I1lO7PYUHiMKchcRLL-20" value="inspects" style="rhombus;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="240" y="240" width="80" height="60" as="geometry" />
+        <mxCell id="F0I1lO7PYUHiMKchcRLL-20" value="location_of" style="rhombus;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="230" y="240" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="F0I1lO7PYUHiMKchcRLL-21" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="F0I1lO7PYUHiMKchcRLL-20" target="F0I1lO7PYUHiMKchcRLL-7">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
